@@ -3,7 +3,7 @@
 This is the final project of CSC576, Advanced Machine Learning class, where team of three did this project together.  
 The basic intention of this project is to build a predictive model about Dota2 with:  
 Input: detailed game stats of each player (including K/A/D, Gold/min, Exp/min, hero used, etc.)  
-Output: A model that contains two parts 1. model of each users archived 2. model of the compatibility of each team (5 heros)
+Output: A model that contains two parts 1. a score model of each users archived 2. a score model of the compatibility of each team (5 heros)
   
 Goal: based on the two outputs above, the team wishes to predict the result of each game at the "very begining" (before users choose their heros) and "after hero choose but before clock begin".
  
